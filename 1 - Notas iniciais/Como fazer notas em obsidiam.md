@@ -14,7 +14,6 @@ Vou começar falando sobre a estruturas de pastas.
 
 Agora vou falar brevemente sobre como estou usando o git
 
-teste
 
 
 
